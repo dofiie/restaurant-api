@@ -1,0 +1,7 @@
+express
+express-validator
+morgan
+dotenv
+jsonwebtoken 
+bcryptjs
+nodemon
