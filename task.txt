@@ -1,0 +1,10 @@
+Restaurant ordering API
+
+The Routers are:
+ /menu :- add, update, delete, and view menu item
+ /customers :- add and view customers
+ /orders :- create order, view a particular order, add menu item to order, view
+	   all orders, and update order status
+
+
+node packages: express express-validator morgan dotenv jsonwebtoken bcryptjs nodemon
